@@ -19,7 +19,7 @@ role: Doctoral Researcher in Secure Software Development
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: DistriNet, KU Leuven
-    url: [https://distrinet.cs.kuleuven.be/](https://distrinet.cs.kuleuven.be/)
+    url: https://distrinet.cs.kuleuven.be/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
