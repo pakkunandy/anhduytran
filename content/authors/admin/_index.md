@@ -26,9 +26,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Secure Software Development
+  - Mobile System Security and Privacy
+  - Computer and Multimedia Forensics
+  - Social Engineering
 
 # Education to show in About widget
 education:
@@ -77,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. student in the research group DistriNet at the Computer Science department of the Katholieke Universiteit Leuven (KU Leuven), under the supervision of Prof. Wouter Joosen. My research focuses include various subjects in Computer and System Security, mostly in Software Security, Computer and Multimedia Forensics, Malware Analysis, Mobile Security, Privacy. I obtained a Diplôme d’ingénieur (Master of Science in Engineering) Communication System Security at EURECOM and Télécom Paris in France. My Master’s thesis is about the Memory Forensics, under the supervision of Prof. Davide Balzarotti. I am the founder of Computer Security Club at University of Science, VNU-HCM. I sometime play CTF with codename pakkunandy and I also host HCMUS-CTF every year.
 {style="text-align: justify;"}
