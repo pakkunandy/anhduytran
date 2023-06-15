@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Anh-Duy Tran
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Anh-Duy
+last_name: Tran
 
 # Status emoji
 status:
