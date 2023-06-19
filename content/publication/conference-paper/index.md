@@ -15,7 +15,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-06-26T00:00:00Z'
 doi: '10.1109/ICIS54925.2022.9882517'
 
 # Schedule page publish date (NOT publication's date).
