@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'MemInspect2: OS-Independent Memory Forensics for IoT Devices in Cybercrime Investigations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
