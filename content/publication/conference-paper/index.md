@@ -6,15 +6,17 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Quoc-Trung Nguyen
+  - Anh-Minh Nguyen
+  - Minh-Triet Tran
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
-doi: ''
+doi: '10.1109/ICIS54925.2022.9882517'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -26,15 +28,15 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *2022 IEEE/ACIS 22nd International Conference on Computer and Information Science (ICIS)*
+publication_short: In *ICIS 2022*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In the age of rapid development of the Internet of Things (IoT) world, more and more cybersecurity incidents have emerged in many IoT devices and systems. Therefore, the need for cybercrime investigation, especially for IoT devices, has become more imperative than ever. Memory forensics, the approach that inspects the memory dump to understand the current state or behavior of the attacked machine, contributes an important position in digital forensics and incident response for IoT systems. However, memory forensics encounter various challenges, including virtual address space (VAS) reconstruction or extracting kernel data structure in a given memory image. Most current tools and approaches leverage the knowledge of the operating system or propose heuristics to evade the commission of rebuilding VAS. In this research, we present our novel methodology to reconstruct the VAS for the memory images by using the paging mechanism of the Central Processing Unit (CPU), primarily for the ARM architectures (32 and 64 bit), one of the most popular microprocessors in the IoT world. In addition, with the support of VAS, we extract the typical kernel data structure like the process linked list. Finally, we build a MemInspect2 toolset that gathers all algorithms, and we also test the tool in many standard OS kernels like Linux and BSD.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [memory forensics, ARM architectures, paging structure, process lists, IoT forensics;]
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,28 +47,28 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
