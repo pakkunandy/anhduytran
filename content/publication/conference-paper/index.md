@@ -76,6 +76,8 @@ url_video: ''
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+
+
 ---
 title: 'DeDigi: A Privacy-by-Design Platform for Image Forensics'
 
